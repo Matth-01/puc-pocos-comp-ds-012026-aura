@@ -1,10 +1,10 @@
-# Título do Projeto
+# Predição de Aprovação de Empréstimo
 
-`CURSO`
+`CiÊNCIA DA COMPUTAÇÃO`
 
-`DISCIPLINA`
+`DATA SCIENCE E BIG DATA`
 
-`SEMESTRE`
+`4 PERIODO`
 
 [Descrever, em um ou dois parágrafos, o problema investigado, o contexto da pesquisa, a motivação e o objetivo geral do projeto.]
 
@@ -12,18 +12,16 @@
 
 ## Integrantes
 
-* Nome completo do aluno 1  
+* PEDRO HENRIQUE FRANCO DA SILVA SARTO  
 * Nome completo do aluno 2  
 * Nome completo do aluno 3  
 * Nome completo do aluno 4  
-* Nome completo do aluno 5  
-* Nome completo do aluno 6  
 
 ---
 
 ## Orientador
 
-* Nome completo do professor  
+* DIEGO ROBERTO GONÇALVES DE PONTES
 
 ---
 
