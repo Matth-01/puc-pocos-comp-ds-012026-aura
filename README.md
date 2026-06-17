@@ -6,7 +6,9 @@
 
 `4 PERIODO`
 
-[Descrever, em um ou dois parágrafos, o problema investigado, o contexto da pesquisa, a motivação e o objetivo geral do projeto.]
+O projeto investiga o problema de conceção crédito nas grandes instituições, o enfoque foi aprimorar e desenvolver a de tomada de decisão para a aprovação de empréstimos bancários. Atualmente, a análise de perfil de crédito requer uma grande demanda operacional e passa muito pelas inconsistências humanas. Tendo em vista o atual cenario econômico, oque motiva a contrução deste trabalho é a necessidade de criar mecanismos mais rápidos, precisos, que façam sentido ao mercado e justos, com capacidade de avaliar o risco de inadimplência de forma preventiva. Utilizando técnicas lecionadas nas aulas de Data Science como Machine Learning, a busca foi pela diminuição de problemas com a inadimplencia, e melhora em expêriencia e facilidade de compra do usuario.
+
+O objetivo geral deste projeto é compor de forma inteligente e pratica, um modelo de aprendizagem de máquina, com capacidade de classificar potenciais perfis elegíveis (aprovados) ou inelegiveis por hora (reprovados), usando como base variáveis socioeconômicas e o histórico financeiro do usuario em que estamos trabalhando. Através do uso da estatística e da execução de experimentos laboratoriais digitais com diferentes parâmetros, o trabalho tem o objetivo de interpretar quais atributos são mais determinantes para o modelo, e assim garantir um resultado satisfatório entre métricas como acurácia, garantindo ao usuário e plataforma, a confiabilidade e a reprodutibilidade científica do pipeline de dados.
 
 ---
 
